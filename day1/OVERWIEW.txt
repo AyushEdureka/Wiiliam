@@ -1,0 +1,28 @@
+FULL STACK WEB DEVELOPMENT- WEBSITE
+
+FULLSTACK - FRONTEND  +  BACKEND  +  DATABASE
+
+
+FRONTEND - VISIBLE TO USER 
+           STRUCTURE AND DESIGN OF WEBISTE
+
+
+BACKEND  - BRAIN OF WEBSITE- HANDLE ALL
+           LOGICAL PROBLEMS OF WEBSITE
+
+DATABASE - IT IS PLACE WHERE WE STORE DATA 
+
+
+----------------------------------------------------------------------------
+
+1.HTML - STRUCTURE WEBISTE
+
+HYPERTEXT - Linking one webpage from another webpage
+ 
+MARKUP LANGUAGE* - <TAGS>  Which Help us to create structure
+
+1. Every Tag Shoule be Under <  > Angular Bracket
+
+2. Opening<Tag>  CONTENT  Closing</Tag >
+
+Trick ! + Enter = Default Structure Of HTML

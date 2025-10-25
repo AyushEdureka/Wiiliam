@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MyFirstWebpage</title>
+</head>
+<body>
+
+    <!-- TAG- TEXT IN YOUR WEBSITE -->
+     
+     <h1>FullStack- Web Dev</h1>
+     <h1>Hello How are you?</h1>
+     <h1>William </h1>
+     <h2>William</h2>
+     <h3>William</h3> 
+     <h4>William</h4>
+     <h5>William</h5>
+     <h6>William</h6>
+
+     <!-- h1-h6 Help us to add Heading Tag in HTML
+      Heading Tag WIll take By default new line 
+     -->
+
+
+     <!-- p tag help us to add paragaph -->
+
+     <p>Why HTML Matters for FullStack Developer: <br>
+        1.Frontend Foundation:<br>
+        2.Proper Tags Help Screen Reader,SEO andmaintain Code<br>
+        3.Connectivity<br>
+        4.Performance
+     </p>
+</body>
+</html>
